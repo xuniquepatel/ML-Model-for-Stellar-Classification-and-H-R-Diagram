@@ -1,4 +1,4 @@
-# ⭐ Intelligent-Stellar-Profiling-ML-Driven-Star-Classification-and-H-R-Diagram-Synthesis
+# ⭐ ML Model for Stellar Classification and H-R Diagram
 
 A Random Forest-based ML model classifies stars based on attributes like color index, luminosity, temperature, and spectral type. It also generates an H-R diagram to illustrate stellar distribution. The model demonstrates high accuracy and potential for future expansion with broader datasets and advanced astrophysical analysis.
 
