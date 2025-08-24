@@ -31,5 +31,5 @@ A Random Forest-based ML model classifies stars based on attributes like color i
 
 ---
 
-Feel free to clone, explore, and build upon this project! 🌌
+Feel free to clone, explore and build upon this project! 🌌
 
